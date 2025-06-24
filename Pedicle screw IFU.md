@@ -138,7 +138,7 @@ Potential adverse events include, but are not limited to:
 
 ## 13. Manufacturer Information
 
-| ![Manufacturer](https://img.icons8.com/ios-filled/24/000000/factory.png) | **Manufacturer:**<br>*Insert Manufacturer Name*<br>*Insert Address*<br>*Insert Contact Information* |
+| ![Manufacturer](https://img.icons8.com/ios-filled/24/000000/factory.png) | **Manufacturer:**<br>*Sample Manufacturer*<br>*sample Address*<br>*sample Contact Information* |
 
 ---
 
