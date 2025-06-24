@@ -1,4 +1,3 @@
-# Mysampleprojects
 # SpineFix™ Pedicle Screw System  
 *Instruction for Use (IFU)*
 
@@ -80,8 +79,6 @@ The SpineFix™ Pedicle Screw System is intended to provide immobilization and s
 ---
 
 ## 7. Implantation Procedure (Summary)
-
-> **Note:** Refer to the full [Surgical Technique Guide](docs/Surgical_Technique_Guide.md) for detailed instructions.
 
 1. Position patient and expose the surgical site.
 2. Prepare pedicle entry points and pilot holes.
