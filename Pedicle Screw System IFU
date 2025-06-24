@@ -122,10 +122,10 @@ Potential adverse events include, but are not limited to:
 
 | Symbol | Meaning                |
 |--------|------------------------|
-| ![Sterile](images/sterile.png) | Sterile |
-| ![Single Use](images/single_use.png) | Single Use |
-| ![Do Not Reuse](images/do_not_reuse.png) | Do Not Reuse |
-| ![Expiry](images/expiry_date.png) | Expiry Date |
+| ![Sterile] | Sterile |
+| ![Single Use] | Single Use |
+| ![Do Not Reuse] | Do Not Reuse |
+| ![Expiry] | Expiry Date |
 
 ---
 
@@ -139,14 +139,6 @@ Email: support@orthotech.com
 
 ---
 
-*For full surgical technique and additional information, refer to the [Surgical Technique Guide](docs/Surgical_Technique_Guide.md).*
-
----
-
 **Copyright © 2024 OrthoTech Inc. All rights reserved.**
-
----
-
-*This document is maintained in the [OrthoTech/SpineFix-IFU](https://github.com/OrthoTech/SpineFix-IFU) repository.*
 
 ---
