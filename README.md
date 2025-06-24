@@ -79,6 +79,7 @@ The SpineFix™ Pedicle Screw System is intended to provide immobilization and s
 ---
 
 ## 7. Implantation Procedure (Summary)
+- For the full procedure, refer the surgical technical guide in the comany website.
 
 1. Position patient and expose the surgical site.
 2. Prepare pedicle entry points and pilot holes.
