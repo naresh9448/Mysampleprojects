@@ -14,8 +14,6 @@ The **SpineFix™ Pedicle Screw System** is an implantable spinal fixation devic
 | Symbol | Meaning                        |
 |--------|--------------------------------|
 | ![Sterile](https://img.icons8.com/ios-filled/24/000000/sterilization.png) | Sterile |
-| ![Do Not Reuse](https://img.icons8.com/ios-filled/24/000000/do-not-reuse.png) | Do not reuse |
-| ![Do Not Use if Package is Damaged](https://img.icons8.com/ios-filled/24/000000/broken-package.png) | Do not use if package is damaged |
 | ![Consult IFU](https://img.icons8.com/ios-filled/24/000000/information.png) | Consult instructions for use |
 | ![Manufacturer](https://img.icons8.com/ios-filled/24/000000/factory.png) | Manufacturer |
 | ![Temperature Limit](https://img.icons8.com/ios-filled/24/000000/temperature.png) | Temperature limit |
